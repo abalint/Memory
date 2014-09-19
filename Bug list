@@ -1,0 +1,3 @@
+Known bug list
+
+If auto retaliate is on, and you click to pick up an item, and then get hit, and then auto hit back, you move to the spot, but dont pick up the item
